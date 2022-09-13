@@ -5,3 +5,6 @@ Write a function that prints the alphabet, in lowercase, followed by a new line.
 Check for uppercase amd lowercase and neotget
 
 
+ printing signs
+ The absolute value
+ Printing ladt digit
