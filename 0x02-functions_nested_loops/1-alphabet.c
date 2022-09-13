@@ -3,7 +3,7 @@
 /**
  * print_alphabet - prints the alphabets
  */
-void print-alphabet(void)
+void print_alphabet(void)
 {
 	char Alpha;
 
