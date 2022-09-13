@@ -7,23 +7,24 @@
  */
 int main(void)
 {
-	int r;
+	int a;
 
-	r = 48;
-	while (r < 58)
+	a = 48;
+	while (a < 58)
 	{
 		putchar(a);
-		if  (r != 57 )
+		if (a != 57)
 		{
 			putchar(44);
 			putchar(32);
-			r++;
+			a++;
 		}
-		else 
+		else
 		{
-			r++;
+			a++;
 		}
 	}
 	putchar('\n');
 	return (0);
 }
+		
