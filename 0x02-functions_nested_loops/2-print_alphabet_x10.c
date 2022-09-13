@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10
+ * print_alphabet_x10 - prints the code 10 times
  */
 void print_alphabet_x10(void)
 {
@@ -14,3 +14,4 @@ void print_alphabet_x10(void)
 			_putchar(a);
 		_putchar('\n');
 	}
+}
