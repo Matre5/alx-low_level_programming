@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  *print_to_98 - prints all natural numbers from in order soerated by a comma
