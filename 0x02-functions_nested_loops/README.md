@@ -8,3 +8,5 @@ Check for uppercase amd lowercase and neotget
  printing signs
  The absolute value
  Printing ladt digit
+ Prints all hours of the day for jack 
+Prints 9 times table starting with 0 
