@@ -10,3 +10,5 @@ Check for uppercase amd lowercase and neotget
  Printing ladt digit
  Prints all hours of the day for jack 
 Prints 9 times table starting with 0 
+ Write a function that adds two integers and returns the result 
+ Prints all natural number from the input to 98 
