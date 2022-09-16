@@ -6,7 +6,7 @@
  */
 void print_line(int n)
 {
-	int l;
+	int len;
 
 	if (n > 0)
 	{
