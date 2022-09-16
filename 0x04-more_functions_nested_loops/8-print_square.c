@@ -6,7 +6,7 @@
  */
 void print_square(int size)
 {
-	int height, width;
+	int h, w;
 
 	if (size > 0)
 	{
